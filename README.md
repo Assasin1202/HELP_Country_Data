@@ -1,8 +1,8 @@
 # HELP_International_Country_Data - Unsupervised ML. 
 HELP International Country Data - Unsupervised Learning to categorize the countries using socio-economic and health factors.
 
-## Country Clustering Analysis using Unsupervised Learning - A
-nalyzing socio-economic and health factors of countries worldwide to classify and group them. This repository contains an IPython notebook and a detailed report showcasing the application of unsupervised learning techniques for country categorization. In the notebook, we explore the data preprocessing, feature engineering, clustering algorithms, and insightful visualizations in this project.
+## Country Clustering Analysis using Unsupervised Learning -
+Analyzing socio-economic and health factors of countries worldwide to classify and group them. This repository contains an IPython notebook and a detailed report showcasing the application of unsupervised learning techniques for country categorization. In the notebook, we explore the data preprocessing, feature engineering, clustering algorithms, and insightful visualizations in this project.
 
 The accompanying report in this repository provides a comprehensive overview of the "Country Clustering Analysis using Unsupervised Learning" project. The report delves into the process of categorizing countries based on socio-economic and health factors, employing various unsupervised learning techniques.
 
