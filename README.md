@@ -1,4 +1,4 @@
-# HELP_International_Country_Data - Unsupervised ML. 
+# HELP_International_Country_Data - PRML Project.
 HELP International Country Data - Unsupervised Learning to categorize the countries using socio-economic and health factors.
 
 ## Country Clustering Analysis using Unsupervised Learning -
